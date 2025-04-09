@@ -1,4 +1,8 @@
 123456 test 1031
+<<<<<<< HEAD
 qwerty edit by 2
+=======
+qwerty edit by 1
+>>>>>>> f0965288bc09c7138d86b325a2b697e62b48e020
 asdfgh
 
